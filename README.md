@@ -1,2 +1,2 @@
 # SillyLittleGuysWebpage
-It's just a website. Don't mind it, I'm just experimenting with Next UI and stuff.
+This is just a website. Don't mind me; I'm just experimenting with Next UI and stuff.
